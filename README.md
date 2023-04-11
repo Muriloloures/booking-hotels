@@ -20,4 +20,4 @@ O projeto foi desenvolvido utilizando as tecnologias ReactJS e NodeJS. Para a au
 - MongoDB
 - Cookies
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sfav09QfhQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
