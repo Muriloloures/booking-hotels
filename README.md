@@ -23,6 +23,6 @@ O projeto foi desenvolvido utilizando as tecnologias ReactJS e NodeJS. Para a au
 ### Vídeo
 
 <video width="640" height="480" controls>
-  <source src="https://youtu.be/sfav09QfhQY" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=sfav09QfhQY" type="video/mp4">
 </video>
 
